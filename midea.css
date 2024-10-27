@@ -1,0 +1,309 @@
+@media screen and (max-width: 600px) {
+    #home{
+min-height: 100vh;
+width: 475px;
+       
+    }
+    header{
+        height: 10%;
+       
+    }
+    .navbar ul li{
+        display: none;
+    } 
+    .mnue {
+        display: block;
+        margin-right: 1rem;
+        color: white;
+    }
+    .home-maintext{
+        display: block;
+    }
+    .home-text {
+width: 100%;
+
+    }
+    .home-text h2{
+        margin-top: 4rem;
+    font-size: 3rem;
+margin-left: -1rem;
+    }
+    .home-text p{
+margin-left: -1rem;
+line-height: 26px;
+    }
+    .home-text button{
+margin-left: -1rem;
+
+    }
+    .home-img{
+        width: 100%;
+    }
+    /* ////////////////////////////////// */
+    #servise{
+width: 475px;
+
+    }
+    #servise p{
+        color: var(--gray);
+        font-size: 1rem;
+        line-height: 30px;
+        display: flex;
+        text-align: center;
+    }
+    .all-servers{
+        display: block;
+
+    }
+    .servers-info{
+        width: 100%;
+    }
+    .servers-info a{
+        color: var(--primary);
+        padding-bottom: 1.9rem;
+    }
+    /* ////////////////////////////// */
+    #About{
+        margin-top: 3rem;
+width: 475px;
+
+    }
+    .h2-about{
+        font-size: 2.8rem;
+    }
+    #About .main-textabout p{
+        line-height: 30px;
+        text-align: center;
+    }
+    .main-about{
+        display: block;
+    }
+    .img-about{
+        width: 100%;
+        
+    }
+    .img-about img{
+        
+        margin-left: 1.4rem;
+    }
+    .text-about{
+        width: 100%;
+    }
+    .text-about button{
+        margin-bottom: 6rem;
+    }
+    /* /////////////////////////// */
+    #why{
+        width: 475px;
+
+    }
+    #why p{
+        line-height: 27px;
+    }
+   
+
+    /* //////////////////////////////////// */
+    #team{
+        width: 475px;
+    }
+    .main-team{
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+    .teeeem{
+        display: block;
+
+    }
+    /* ///////////////////////////// */
+    .Customers{
+        width: 475px;
+    }
+    .customer{
+        display: block;
+    }
+    .main-customar{
+        margin-bottom: 4rem;
+
+    }
+    .main-customar p{
+        padding-bottom: 2rem;
+    }
+    #footer{
+        width: 475px;
+    }
+    footer{
+        display: block;
+        
+    }
+    .footer-main{
+        width: 100%;
+    }
+    .footer-main button{
+        margin-bottom: 4rem;
+    }
+}
+
+@media screen and (min-width: 600px)and (max-width:1000px) {
+
+    #home{
+        min-height: 100vh;
+               
+            }
+            header{
+                height: 6rem;
+               font-size: 4rem;
+            }
+            .logo{
+                margin-left: 4rem;
+                font-size: 3rem;
+            }
+            .navbar ul li{
+                display: none;
+            } 
+            .mnue {
+                display: block;
+                margin-right: 1rem;
+                color: white;
+            }
+            .home-maintext{
+                display: block;
+            }
+            .home-text {
+        width: 100%;
+        
+            }
+            .home-text h2{
+                margin-top: 4rem;
+            font-size: 5rem;
+            }
+            .home-text p{
+        line-height: 36px;
+        font-size: 1.6rem;
+            }
+            .home-text button{
+    padding: 1.5rem 4rem;
+        
+            }
+            .home-img{
+                width: 100%;
+            }
+         /* ////////////////////////////////// */
+   
+            #servise p{
+                color: var(--gray);
+                font-size: 1rem;
+                line-height: 30px;
+                display: flex;
+                text-align: center;
+            }
+            .all-servers{
+                display: block;
+        
+            }
+            .servers-info{
+                width: 100%;
+            }
+            .servers-info a{
+                color: var(--primary);
+                padding-bottom: 1.9rem;
+            }
+            /* ////////////////////////////// */
+            #About{
+                margin-top: 3rem;
+        
+            }
+            .h2-about{
+                font-size: 4rem;
+            }
+            #About .main-textabout p{
+                line-height: 35px;
+                text-align: center;
+                font-size: 1.5rem;
+            }
+            .main-about{
+                display: block;
+            }
+            .img-about{
+                width: 100%;
+                
+            }
+            .img-about img{
+                
+                margin-left: 1.4rem;
+            }
+            .text-about{
+                width: 100%;
+            }
+            .text-about button{
+                margin-bottom: 6rem;
+            }
+            .text-about h2{
+                font-size: 4rem;
+            } 
+            .text-about{
+                font-size: 1.5rem;
+                line-height: 2rem;
+            } 
+            /* ///////////////////// */
+            #why h2{
+                font-size: 5rem;
+                
+            }
+           
+           
+            #why p{
+                line-height: 34px;
+                font-size: 1.5rem;
+            }
+            #why button{
+    padding: 1.5rem 4rem;
+
+            }
+            #why .border img{
+                width: 160px;
+height: 160px;
+            }
+            #why h3{
+font-size: 2.5rem;
+
+            }
+            /* ///////////////// */
+           
+            .main-team{
+                width: 100%;
+                margin-bottom: 2rem;
+            }
+            .teeeem{
+                display: block;
+        
+            }
+            /* //////////////////////// */
+            
+            .Customers h2{
+                font-size: 3rem;
+                margin-bottom: 5rem;
+            }
+            .main-customar{
+                margin-bottom: 4rem;
+        
+            }
+            .main-customar h3{
+                font-size: 2.2rem;
+            }
+            .main-customar p{
+                padding-bottom: 2rem;
+                font-size: 1.3rem;
+                line-height: 34px;
+            }
+           
+            footer{
+                display: block;
+                
+            }
+            .footer-main{
+                width: 100%;
+            }
+            .footer-main button{
+                margin-bottom: 4rem;
+            }
+}
